@@ -1,11 +1,11 @@
-##Bezprzewodowe Guziki Do Familiady
+## Bezprzewodowe Guziki Do Familiady
 
 
 Hardware'owy system przycisków turniejowych (w stylu "Familiady") zbudowany w oparciu o mikrokontrolery Arduino i komunikację radiową 2.4 GHz. System bezbłędnie rozstrzyga, który z graczy zgłosił się jako pierwszy, blokując pozostałe przyciski.
 
 ![Animacja Działania](media/dzialanie.gif)
 
-##Wykorzystany Hardware
+## Wykorzystany Hardware
 
 System składa się z jednostki centralnej (Bazy) oraz bezprzewodowych przycisków graczy (Node'ów). Do budowy każdego z nich użyto:
 * **Mikrokontroler:** Arduino Nano (ATmega328P)
